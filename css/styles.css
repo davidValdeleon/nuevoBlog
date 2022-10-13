@@ -4,6 +4,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#cabecera {
+    font-size: 2rem;
+    width: 500px;
+    color: rgb(48, 48, 98);
+    border-radius: 0;
+    margin-top: 20px;
+    background-color: white;
+}
+
 #contenedor{
     width: 500px;
     background-color: white;
@@ -13,7 +22,7 @@ body {
 }
 
 div {
-    width: 100px;
+    width: 300px;
     height: 100px;
     display: flex;
     flex-direction: column;
