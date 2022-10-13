@@ -4,6 +4,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#contenedor {
+    width: 500px;
+    background-color: white;
+    color: black;
+    border: 2px solid;
+    border-radius: 0px;
+}
+
 div {
     width: 100px;
     height: 100px;
