@@ -43,7 +43,7 @@ div {
     /* height: 100px; */
     display: flex;
     flex-direction: column;
-    color: white;
+    color: black;
     list-style: none;
     align-items: center;
     margin: auto;
