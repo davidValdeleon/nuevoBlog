@@ -53,6 +53,11 @@ div {
     justify-content: center;
 }
 
+footer {
+    width: 500px;
+    background-color: bisque;
+}
+
 .nuevo {
     width: auto;
 }
