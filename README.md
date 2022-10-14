@@ -1,3 +1,2 @@
 # nuevoBlog
-Este es un blog con la rama main
-
+Este es un blog nuevo
