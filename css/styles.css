@@ -34,7 +34,7 @@ h2 {
     align-items: flex-end;
     display: flex;
     margin-top: 0;
-    width: 500px;
+    width: 100%;
     /* background-color: rgb(30, 73, 73); */
 }
 
@@ -54,7 +54,7 @@ div {
 }
 
 footer {
-    width: 500px;
+    width: 100%;
     background-color: bisque;
 }
 
