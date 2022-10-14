@@ -1,7 +1,12 @@
 body {
-    color: gray;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
 }
 
 #contenedor {
@@ -11,29 +16,40 @@ body {
     color: black;
     border: 2px solid;
     border-radius: 0px;
+    /* background-color: rgba(100, 123, 123, 0.451); */
+}
+
+/* .titulo-principal {
+    flex-direction: row;
+} */
+
+#imagen-cohete {
+    height: 35px;
+    margin: 0px 10px;
 }
 
 h2 {
-    color: white;
+    color: black;
     justify-content: center;
+    align-items: flex-end;
     display: flex;
     margin-top: 0;
     width: 500px;
-    background-color: rgb(30, 73, 73);
+    /* background-color: rgb(30, 73, 73); */
 }
 
 div {
-    width: 300px;
-    height: 100px;
+    /* width: 300px; */
+    /* height: 100px; */
     display: flex;
     flex-direction: column;
     color: white;
     list-style: none;
     align-items: center;
     margin: auto;
-    margin-top: 40px;
-    background-color: black;
-    border-radius: 20px;
+    /* margin-top: 40px; */
+    /* background-color: black; */
+    /* border-radius: 20px; */
     justify-content: center;
 }
 
